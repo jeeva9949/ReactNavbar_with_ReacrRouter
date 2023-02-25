@@ -1,0 +1,2 @@
+.app{align-items:center}.app,nav{display:flex;justify-content:center}nav{background-color:#000;padding:20px;text-align:center}nav a{color:#fff;font-size:30px;margin-left:30px}nav a,nav a.active{text-decoration:none}nav a.active{color:#ff5f5f;font-weight:700}.Header{margin-top:50px}form{grid-row-gap:10px;display:grid;font-size:30px;grid-template-rows:1fr 1fr 1fr;row-gap:10px}button{font-size:20px;margin-left:100px;margin-top:50px}
+/*# sourceMappingURL=main.0a5bf90c.css.map*/

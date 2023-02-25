@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactNavbar_with_ReacrRouter/static/css/main.0a5bf90c.css",
+    "main.js": "/ReactNavbar_with_ReacrRouter/static/js/main.dd3dd8a1.js",
+    "index.html": "/ReactNavbar_with_ReacrRouter/index.html",
+    "main.0a5bf90c.css.map": "/ReactNavbar_with_ReacrRouter/static/css/main.0a5bf90c.css.map",
+    "main.dd3dd8a1.js.map": "/ReactNavbar_with_ReacrRouter/static/js/main.dd3dd8a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5bf90c.css",
+    "static/js/main.dd3dd8a1.js"
+  ]
+}
