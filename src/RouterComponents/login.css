@@ -1,0 +1,14 @@
+.Header{
+    margin-top:50px;
+}
+form{
+    display:grid;
+    grid-template-rows:1fr 1fr 1fr;
+    row-gap: 10px;;
+    font-size: 30px;;
+}
+button{
+    font-size: 20px;;
+    margin-left:100px;
+    margin-top:50px;
+}
